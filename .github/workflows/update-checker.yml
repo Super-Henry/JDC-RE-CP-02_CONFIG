@@ -12,8 +12,9 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/vki888/lede-jdcloud-luban-code
-  REPO_BRANCH: master
+  #REPO_URL: https://github.com/vki888/lede-jdcloud-luban-code
+  REPO_URL: https://github.com/Super-Henry/openwrt
+  REPO_BRANCH: main
 
 on:
   workflow_dispatch:
